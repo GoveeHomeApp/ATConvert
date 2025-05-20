@@ -1,0 +1,6 @@
+framework module ATConvert {
+  umbrella header "ATConvert-umbrella.h"
+
+  export *
+  module * { export * }
+}

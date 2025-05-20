@@ -1,0 +1,6 @@
+framework module Pods_ATConvert_Example {
+  umbrella header "Pods-ATConvert_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

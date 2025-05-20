@@ -1,0 +1,16 @@
+PODS:
+  - ATConvert (0.1.0)
+
+DEPENDENCIES:
+  - ATConvert (from `../`)
+
+EXTERNAL SOURCES:
+  ATConvert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ATConvert: 5701134f57538453c375f446d2436397ccf583f1
+
+PODFILE CHECKSUM: c63868dcd2850f89b9d927df57dbd46fd5762885
+
+COCOAPODS: 1.14.3
